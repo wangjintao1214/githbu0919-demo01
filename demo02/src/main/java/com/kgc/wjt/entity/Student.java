@@ -2,7 +2,7 @@ package com.kgc.wjt.entity;
 
 /**
  * @author shkstart
- * @create 2020-09-19 9:33
+ * @create 2020-09-19 9:39
  */
 public class Student {
     private int id;
